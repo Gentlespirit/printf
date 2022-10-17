@@ -1,1 +1,1 @@
-C - printf team project with by Ifezue Obinna and Binawei Gbamila
+C - printf team project by Ifezue Obinna and Binawei Gbamila
